@@ -1,0 +1,14 @@
+This project is about mysql queries and quering the database 
+Here the aim is to learn different data base queries
+This Project covers followinng queries:
+-create table
+-update table 
+-insert table 
+-delete operations 
+-group by 
+-group by having 
+-distinct 
+-views
+-triggers
+-custom defined functions 
+-stored procedure 
