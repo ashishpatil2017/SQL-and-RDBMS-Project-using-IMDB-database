@@ -1,0 +1,9 @@
+Business case 1 :
+Statement : Showing number of movies released per year
+
+Description :
+	In the IMDB website , if a user want to see how much movies released in a perticular year, 
+then he/she can enter the year in which they want to see number of movies released , our sql function returns 
+number of movies released that year.
+		By considering the above situation, we came up with our third businees requirement to 
+show number of movies released in a spacific year 		

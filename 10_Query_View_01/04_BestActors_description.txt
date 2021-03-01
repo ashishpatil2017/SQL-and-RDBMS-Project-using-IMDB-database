@@ -1,0 +1,5 @@
+Demonstrating execution of view_1 : BestActors
+This view creates a vertual table of actors who has good average rating of movies from there past career
+here we considers actors who has average rating above 9.5 
+
+output view has 5 rows which are considered as best actors since they have good average rating which is above 9.5

@@ -1,0 +1,3 @@
+--Demonstrating Trigger 1 : DeleteMovieReletedData 
+--Whenever you delete any movie or old movie which is not required any more , then its relleted director links and actors links will be deleted.
+--Example : if we delete Deadpool movie from database , then its director and all actors releted data will be deleted

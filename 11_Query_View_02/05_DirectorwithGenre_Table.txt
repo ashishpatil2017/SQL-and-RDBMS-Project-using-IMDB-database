@@ -1,0 +1,3 @@
+--Demonstrating view 2 : This view creates a virtual table which has name of the director who did more movies on given genre
+--Example : Lets consider you want to know directors who has done comedy movie more , then you can run this view with comedy as genre 
+--you will get a virtual table with director names with highest probablity who did comedy movies

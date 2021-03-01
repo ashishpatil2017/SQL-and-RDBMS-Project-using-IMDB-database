@@ -1,0 +1,12 @@
+Business case 1 :
+Statement : Showing Genre(Category) of the movies to the users.
+
+Description :
+	IMDB website is all about movies, actors, directors and rating/review of the movies.
+Consider a situation where customer/people heared about one movie and they want to know 
+the kind of the movie . Then they can visit to the website and can find it 
+Example : If a person heared about the latest movie DeadPool and he want to know the kind
+of the movie DeadPool , then he can visit to IMDB website and can find DeadPool is Comedy,
+Romance, Adventure, Action, Science Fiction movie.
+		By considering the above situation, we came up with our first businees requirement to 
+show Genre of the movie to the users 		

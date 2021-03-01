@@ -1,0 +1,9 @@
+We have one table called Review
+Review table has two columns movie id and review 
+review column is of xml type - where name,comment and rating by a user is stored 
+IN this query we are extracting each field data and showing in the form of table for a pertiuclar movie 
+Lets consider you enter the movie name , then this query extracts all the names and comments , ratings by differnt user for that perticualr movie 
+and it shows in the form of table from xml 
+
+meets the requirement - shwoing fields of xml and non field in the table form 
+

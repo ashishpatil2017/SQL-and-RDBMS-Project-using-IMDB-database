@@ -1,0 +1,2 @@
+--demonstratation of developing xml with appropritate elements from reletions database 
+--Here for the given input movie name , we are retrieving all the actors details in xml format 

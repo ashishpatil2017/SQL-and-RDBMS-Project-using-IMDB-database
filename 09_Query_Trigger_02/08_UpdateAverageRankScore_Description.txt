@@ -1,0 +1,18 @@
+before adding new comment line the average rankscore for that movie was 
+
+id	name	year	rankscore
+333849	Titanic	1997	8.16
+
+A new user added a new review to the above movie 
+Movie Name : titanic 
+reviewer Name : Chandler
+review : Not good that much
+rating : 6
+
+After adding this review , below is the new updated row in movie table :
+id	name	year	rankscore
+333849	Titanic	1997  7.62	
+
+
+This demonstrates that our trigger has beeen triggered and we got the required output after adding new review
+

@@ -1,0 +1,26 @@
+<Reviews>
+	<Review>
+	<name>john</name>
+	<comment>Movie is very good </comment>
+	<rating>9</rating>
+	</Review>
+
+
+	<Review>
+	<name>peter</name>
+	<comment>Movie is good</comment>
+	<rating>7</rating>
+	</Review>
+
+	<Review>
+		<name>Ross</name>
+		<comment>I just loved it</comment>
+		<rating>8.5</rating>
+	</Review>
+
+	<Review>
+		<name>Chandler</name>
+		<comment>Not good that much</comment>
+		<rating>6</rating>
+	</Review>
+<Reviews>

@@ -1,0 +1,7 @@
+Business case 2 :
+Statement : Showing movies done by actors in a perticular year to the user 
+
+Description :
+	As to give more functionality to our imdb website / artifact , we can add businees
+case where we can show which all movies done by a perticular actor in a perticular year.
+Example : This businees case give you names of the movies done by tom cruise in year 2001.

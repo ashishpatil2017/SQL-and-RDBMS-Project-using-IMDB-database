@@ -1,0 +1,32 @@
+-- consider user wrote one comment on one movie , below query demonstrate this situation 
+
+USE [imdb]
+GO
+
+INSERT INTO [dbo].[review]
+           ([movie_id]
+           ,[review])
+     VALUES
+           (333849
+           ,'<Review>
+		<name>John</name>
+		<comment>>Movie is very good</comment>
+		<rating>9</rating>
+</Review>')
+GO
+
+
+
+
+
+he finds the comment has slightly mistake and he want to edit
+
+then he can edit the comment with the written query 
+we have written a query which modifies the data in the xml given movie name and name of the user 
+
+output xml after edit :
+<Review>
+  <name>John</name>
+  <comment>this movie was better than any other movie</comment>
+  <rating>9</rating>
+</Review>

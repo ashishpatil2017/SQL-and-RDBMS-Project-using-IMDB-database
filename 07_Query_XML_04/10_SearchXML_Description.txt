@@ -1,0 +1,2 @@
+--In this query , we are searching the field of xml in the review table .
+--Here we are basically searching those queries which has rating above 7 and showing it the user for a spacific movie
